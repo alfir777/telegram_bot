@@ -1,4 +1,5 @@
 /env/
 /venv/
+/temp/
 .idea/
 probe.py
